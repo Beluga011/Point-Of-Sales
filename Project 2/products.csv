@@ -1,0 +1,3 @@
+product_id,name,category,price,cost,stock,barcode,discount_eligibility,active
+11042865,Royal,Beverages,40.0,20.0,967,3388932088426,True,True
+14691833,Pepsi,Beverages,2000.0,1000.0,9995,1522892103748,True,True

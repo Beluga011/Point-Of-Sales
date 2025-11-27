@@ -1,0 +1,36 @@
+                BBC INC.                
+           123 Sitio Mayapyap           
+           Rosario, Batangas            
+      VAT REG TIN: 000-123-456-000      
+----------------------------------------
+OR #: 11
+Date: 2025-11-27 10:26:08
+Cashier: admin
+----------------------------------------
+Royal
+   2 @ 40.00                       80.00
+Pepsi
+   2 @ 2000.00                   4000.00
+----------------------------------------
+Total Sales                      4080.00
+Less: VAT                           0.00
+AMOUNT DUE                       4080.00
+========================================
+Payment: CASH
+----------------------------------------
+VAT ANALYSIS
+Vatable Sales                    3642.86
+VAT Amount                        437.14
+VAT Exempt                          0.00
+Zero Rated                          0.00
+----------------------------------------
+Sold to: ___________________________
+Address: ___________________________
+TIN: _______________________________
+Bus. Style: ________________________
+----------------------------------------
+     THIS DOCUMENT IS NOT VALID FOR     
+           CLAIM OF INPUT TAX           
+  THIS SERVES AS YOUR OFFICIAL RECEIPT  
+========================================
+     Thank you! Please come again.      

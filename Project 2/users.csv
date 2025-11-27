@@ -1,0 +1,4 @@
+user_id,username,password,role,active
+1,admin,admin123,Admin,True
+2,cashier,b4c94003c562bb0d89535eca77f07284fe560fd48a7cc1ed99f0a56263d616ba,Cashier,True
+18699303,"Alfredo Jr, Z Boa",alfredoboa15,Manager,True
